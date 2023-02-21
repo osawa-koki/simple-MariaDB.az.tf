@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "4ops.terraform",
+    "hashicorp.terraform",
+    "ms-vscode.vscode-node-azure-pack",
+    "ms-azuretools.vscode-cosmosdb",
+    "ms-vscode.azure-account",
+    "ms-azuretools.vscode-azureresourcegroups",
+    "ms-vscode.azurecli"
+  ]
+}
