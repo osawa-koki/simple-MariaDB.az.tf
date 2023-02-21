@@ -54,7 +54,7 @@ resource "azurerm_mariadb_server" "db_server" {
 
 // https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/mariadb_database
 resource "azurerm_mariadb_database" "db_database" {
-  name = var.project_name
+  name = replace(var.project_name, "-", "")
   resource_group_name = azurerm_resource_group.resource_group.name
   server_name = azurerm_mariadb_server.db_server.name
   charset = "utf8mb4"
