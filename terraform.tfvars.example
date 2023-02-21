@@ -1,0 +1,4 @@
+project_name = "simple-mariadb-az"
+mariadb_admin_username = "adminuser"
+mariadb_admin_password = "password1234(*_*)/"
+ip_address_allowed = "🐬IPアドレス🐬"
