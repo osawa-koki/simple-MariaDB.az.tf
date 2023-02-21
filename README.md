@@ -1,3 +1,3 @@
 # simple-MariaDB.az.tf
 
-Azure上にMariaDBを構築するためのTerraformのサンプルです。  
+💐💐💐 Azure上にMariaDBを構築するためのTerraformのサンプルです。  
